@@ -1,4 +1,4 @@
-JavaScript Task list :clipboard:
+JavaScript Task List :clipboard:
 ================================
 
 * HTML/CSS
